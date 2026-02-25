@@ -9,8 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ctd.gmbd.simple</groupId>
-	<artifactId>gmbd-simple</artifactId>
+	<artifactId>gmbd-backend-spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	
+	<packaging>jar</packaging>
+
 	<name>gmbd-simple</name>
 	<description>Simple GMBD project for Spring Boot</description>
 	<properties>
